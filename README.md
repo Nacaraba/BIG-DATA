@@ -1,1 +1,0 @@
-[Uploading Noviembre dane.csv…]()
